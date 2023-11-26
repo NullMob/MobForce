@@ -1,0 +1,11 @@
+main
+admin
+login
+acess
+advanced
+profile
+server
+www
+us
+adm
+user
